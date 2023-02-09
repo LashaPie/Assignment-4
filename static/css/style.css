@@ -1,0 +1,402 @@
+@font-face {
+  font-family: malayalam;
+  src: url(../fonts/Malayalam\ MN.ttc);
+}
+
+@font-face {
+  font-family: poppins-medium;
+  src: url(../fonts/Poppins-Medium.ttf);
+}
+
+@font-face {
+  font-family: opensans-regular;
+  src: url(../fonts/OpenSans-Regular.ttf);
+}
+
+@font-face {
+  font-family: firago-medium;
+  src: url(../fonts/FiraGO-Medium.ttf);
+}
+@font-face {
+  font-family: poppins-bold;
+  src: url(../fonts/Poppins-Bold.ttf);
+}
+@font-face {
+  font-family: poppins-regular;
+  src: url(../fonts/Poppins-Regular.ttf);
+}
+
+@font-face {
+  font-family: firago-light;
+  src: url(../fonts/FiraGO-Light.ttf);
+}
+
+@font-face {
+  font-family: andada-bold;
+  src: url(../fonts/AndadaPro-Bold.ttf);
+}
+
+@font-face {
+  font-family: andada-semibold;
+  src: url(../fonts/AndadaPro-SemiBold.ttf);
+}
+@font-face {
+  font-family: firago-regular;
+  src: url(../fonts/FiraGO-Regular.ttf);
+}
+
+@font-face {
+  font-family: poppins-italic;
+  src: url(../fonts/Poppins-Italic.ttf);
+}
+
+li {
+  display: inline;
+  margin-right: 70px;
+  font-size: 18px;
+  font-family: poppins;
+  font-weight: 500;
+  line-height: 27px;
+  font-family: poppins-medium;
+}
+
+a {
+  color: black;
+}
+
+header {
+  text-align: center;
+  margin-top: 30px;
+  border-bottom: 1px solid black;
+  padding-bottom: 30px;
+}
+
+.youbuy {
+  margin-right: 270px;
+  font-family: malayalam;
+  font-size: 26px;
+  line-height: 37px;
+}
+
+.icon {
+  padding-left: 270px;
+}
+
+.section-title {
+  text-align: center;
+  margin-top: 80px;
+  font-size: 24px;
+  line-height: 29px;
+  font-family: firago-medium;
+}
+
+.content {
+  display: inline-block;
+  border: 1px solid black;
+  padding: 15px 15px 25px 15px;
+  width: 333px;
+}
+
+.content img {
+  width: 100%;
+}
+
+.content h3 {
+  margin: 19px 26px;
+  font-size: 16px;
+  line-height: 24px;
+  font-family: poppins-bold;
+}
+
+.content p {
+  margin: 0 26px;
+  font-size: 14px;
+  line-height: 26px;
+  font-family: poppins-regular;
+}
+
+.footer button {
+  font-size: 12px;
+  line-height: 18px;
+  padding: 6px 26px;
+  background-color: inherit;
+  border: 1px solid black;
+  border-radius: 4px;
+  cursor: pointer;
+  font-family: poppins-regular;
+}
+
+.footer {
+  position: inherit;
+  margin-top: 20px;
+  text-align: right;
+}
+
+.container {
+  padding: 100px 120px 0px 120px;
+}
+
+.product {
+  display: inline-block;
+}
+
+.description {
+  margin-top: 60px;
+}
+
+.description li {
+  font-size: 14px;
+  line-height: 215%;
+  list-style: disc outside none;
+  display: list-item;
+  margin-left: 1em;
+  font-family: opensans-regular;
+}
+
+.product {
+  margin-left: 126px;
+}
+
+.more-product {
+  margin-left: 1200px;
+  margin-top: 40px;
+  margin-bottom: 61px;
+}
+
+.more-product h4 {
+  font-size: 16px;
+  text-decoration-line: underline;
+  line-height: 132%;
+  font-family: firago-light;
+}
+
+.second-h2 {
+  text-align: center;
+  margin-top: 100px;
+  font-size: 40px;
+  line-height: 47px;
+  font-family: andada-bold;
+  color: #7d0000;
+}
+.second-h2-about {
+  text-align: center;
+  margin-top: 100px;
+  font-size: 40px;
+  line-height: 47px;
+  font-family: andada-semibold;
+  color: #7d0000;
+}
+
+.info p,
+.info a {
+  display: inline-block;
+  font-family: andada-semibold;
+  font-size: 27px;
+  line-height: 32px;
+  margin-top: 68px;
+  margin-right: 320px;
+  margin-left: 280px;
+}
+
+.map iframe {
+  width: 908px;
+  height: 423px;
+  margin: 144px 266px;
+  filter: drop-shadow(0px 0px 51px rgba(0, 0, 0, 0.07));
+  border-radius: 16.1759px;
+}
+
+.wrap-about {
+  margin-right: 60px;
+}
+
+.container-about p {
+  position: absolute;
+  display: inline-block;
+  width: 650px;
+  margin-top: 115px;
+  margin-left: 126px;
+  font-size: 25px;
+  line-height: 42px;
+  font-family: andada-semibold;
+}
+
+.shirt-img {
+  /* position: relative; */
+  margin-top: 185px;
+  margin-left: 835px;
+}
+
+.top-blog h4 {
+  display: inline-block;
+  font-family: firago-regular;
+  font-size: 24px;
+  line-height: 28px;
+  margin-left: 95px;
+  margin-top: 47px;
+}
+
+.second-navigation {
+  margin-left: 445px;
+  margin-top: 93px;
+  padding-right: 65px;
+}
+
+.second-navigation li {
+  font-size: 18px;
+  line-height: 25px;
+  font-family: firago-medium;
+}
+
+.second-navigation a {
+  text-decoration: none;
+}
+
+.blog-container {
+  width: 1346px;
+  margin-bottom: 105px;
+}
+
+.blog-pic {
+  display: inline-block;
+  margin-top: 68px;
+  margin-left: 94px;
+}
+
+.blog-description p {
+  width: 850px;
+  height: 124px;
+  font-size: 14px;
+  line-height: 17px;
+  margin-top: 38px;
+  margin-left: 36px;
+}
+
+.blog-description h4 {
+  font-family: firago-medium;
+  font-size: 18px;
+  line-height: 21px;
+  margin-top: 38px;
+  margin-left: 36px;
+  margin-bottom: 32px;
+}
+
+.blog-description {
+  display: inline-block;
+  vertical-align: top;
+  width: 918px;
+  height: 228px;
+  font-family: firago-light;
+  border-radius: 0px 14px 14px 0px;
+  background-color: #e5ebe5;
+  margin-left: 22px;
+  margin-top: 68px;
+}
+
+.blog-button {
+  text-align: end;
+}
+
+.blog-button button {
+  width: 164px;
+  height: 40px;
+  box-sizing: border-box;
+  border: 1px solid #000000;
+  border-radius: 4px;
+  margin-top: 14px;
+  font-family: firago-regular;
+  font-size: 12px;
+  line-height: 14px;
+  cursor: pointer;
+}
+
+.img-name {
+  margin-left: 206px;
+}
+
+.personal-img {
+  display: inline-block;
+  width: 170px;
+  height: 170px;
+  border-radius: 300px;
+  margin-top: 169px;
+}
+
+.name {
+  display: inline-block;
+  vertical-align: middle;
+  margin-left: 68px;
+  margin-top: -120px;
+}
+
+.name h4 {
+  font-family: poppins-medium;
+  font-size: 30px;
+  line-height: 45px;
+  margin-bottom: 14px;
+}
+
+.name p {
+  font-family: poppins-italic;
+  font-size: 22px;
+  line-height: 33px;
+  color: #546ccc;
+}
+
+.info {
+  margin-top: 58px;
+}
+
+.info-1 {
+  display: inline-block;
+  margin-left: 237px;
+}
+.info-2 {
+  display: inline-block;
+  margin-left: 163px;
+}
+
+.info-1 li {
+  display: block;
+  margin-bottom: 30px;
+  font-family: poppins-bold;
+  font-size: 20px;
+  line-height: 30px;
+}
+
+.info-2 li {
+  display: block;
+  margin-bottom: 30px;
+  font-family: poppins-medium;
+  font-size: 20px;
+  line-height: 30px;
+}
+
+.about-container h4 {
+  width: 110px;
+  margin-left: 220px;
+  margin-top: 96px;
+  font-family: poppins-medium;
+  font-size: 24px;
+  line-height: 36px;
+  padding-left: 30px;
+  padding-bottom: 16px;
+  border-bottom: 1px solid #7d0000;
+}
+
+.edit-button {
+  margin-left: 956px;
+  margin-bottom: 146px;
+}
+
+.edit-button button {
+  width: 265px;
+  height: 70px;
+  border-radius: 10px;
+  background-color: #87ac87;
+  border-style: hidden;
+  font-family: poppins-medium;
+  font-size: 25px;
+  line-height: 37px;
+  color: #ffffff;
+}
